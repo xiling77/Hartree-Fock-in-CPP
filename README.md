@@ -23,10 +23,49 @@ As a comparison, the features in this program are:
    Ones you need to install yourself:
    
         Boost
+            /*
+               sudo apt-get install libboost-all-dev
+
+               Default installation path:  /usr/include/boost
+            */   
         
         Armadillo 
-        
+             /*
+               apt-get install libopenblas-dev liblapack-dev libarpack2-dev libsuperlu-dev
+               
+               https://arma.sourceforge.net/download.html
+               To_get:armadillo-12.0.1.tar.xz
+               
+               tar xvJf armadillo-12.0.1.tar.xz
+               
+               mkdir build
+               cd build
+               cmake ..
+               make
+               make install
+             */
+             
         GSL - GNU Scientific Library
+            /*
+               download file gsl-latest.tar.gz from
+               http://www.gnu.org/software/gsl/
+               
+               ./configure && make && make install
+               
+               default path:
+                  /usr/local
+               
+               cd /usr/local/bin
+               ln /usr/local/lib/libgsl.so /usr/local/lib/libgsl.so.0
+               
+               configure environment:
+               vi /etc/profile
+               export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+              
+               source /etc/profile
+               OR
+               reboot
+            */
    
    and others I help you fetch and compile:
    
