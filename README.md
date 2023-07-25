@@ -36,7 +36,7 @@ As a comparison, the features in this program are:
                https://arma.sourceforge.net/download.html
                To_get:armadillo-12.0.1.tar.xz
                
-               tar xvJf armadillo-12.0.1.tar.xz
+               tar -xvJf armadillo-12.0.1.tar.xz
                
                mkdir build
                cd build
