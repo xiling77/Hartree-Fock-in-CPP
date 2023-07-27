@@ -66,7 +66,7 @@ As a comparison, the features in this program are:
                reboot
             */
 
-   lincint need to be download from another hub
+         lincint need to be download from another hub
 
    
    and others I help you fetch and compile:
