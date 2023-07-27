@@ -44,6 +44,10 @@ As a comparison, the features in this program are:
                make
                make install
              */
+
+             /*
+                sudo apt install libarmadillo-dev
+             */
              
         GSL - GNU Scientific Library
             /*
