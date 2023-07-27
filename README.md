@@ -68,6 +68,9 @@ As a comparison, the features in this program are:
 
          lincint need to be download from another hub
 
+         install the parallel lib:
+            sudo apt-get install libomp-dev
+
    
    and others I help you fetch and compile:
    
