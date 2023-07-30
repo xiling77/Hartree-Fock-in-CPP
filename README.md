@@ -60,7 +60,8 @@ As a comparison, the features in this program are:
                
                 Default installation path:  /usr/local
                
-               cd /usr/local/bin
+               cd /usr/local/bin 
+               
                ln /usr/local/lib/libgsl.so /usr/local/lib/libgsl.so.0
                
                configure environment:
