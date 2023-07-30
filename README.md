@@ -70,7 +70,7 @@ As a comparison, the features in this program are:
                reboot
             */
 
-         lincint need to be download from another hub
+         lincint need to be download from another Repository
 
          install the parallel lib:
             sudo apt-get install libomp-dev
