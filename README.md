@@ -26,7 +26,7 @@ As a comparison, the features in this program are:
             /*
                sudo apt-get install libboost-all-dev
 
-               Default installation path:  /usr/include/boost
+               Default installation-path:  /usr/include/boost
             */   
         
         Armadillo 
@@ -43,6 +43,8 @@ As a comparison, the features in this program are:
                cmake ..
                make
                make install
+
+               Default installation-path:  /usr/include/boost
              */
 
              /*
